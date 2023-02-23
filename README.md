@@ -1,2 +1,2 @@
-# sVid
-Simple Video Downloader (Youtube + Facebook)
+# Ababil
+Ad Free Browser with Video Downloader (Youtube + Facebook)
