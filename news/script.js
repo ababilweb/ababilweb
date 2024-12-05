@@ -2,7 +2,7 @@ let tabs = document.querySelectorAll(".tabs h3");
 let tabContents = document.querySelectorAll(".tab-content div");
 
 //News URL 
-const papersUrl = "https://sibbir.live/papers.json";
+const papersUrl = "https://sibbirahmad.github.io/papers.json";
 const continant =["Popular","Asia","Africa","North America",
 "South America","Antarctica","Europe","Australia"];
 tabs.forEach((tab, index) => {
